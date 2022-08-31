@@ -1,0 +1,4 @@
+名单.txt
+macospractice.sh
+target/
+!target/generated
