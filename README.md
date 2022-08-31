@@ -12,3 +12,5 @@ pwsh collect_screenshots_bash.ps1
 ```
 
 在同级目录下放`名单.txt`即可运行，名单使用系统默认`IFS`分隔，运行时从微信窗口拖入图片
+
+解锁更多姿势请看注释
