@@ -2,3 +2,4 @@
 macospractice.sh
 target/
 !target/generated
+.DS_Store
