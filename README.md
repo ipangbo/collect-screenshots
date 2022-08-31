@@ -11,6 +11,6 @@ Windows请在程序本级目录用PowerShell运行
 pwsh collect_screenshots_pwsh.ps1
 ```
 
-在同级目录下放`名单_CRLF.txt`（Win）`名单_LF.txt`（MacOS、Linux）即可运行，名单使用系统默认`IFS`分隔，运行时从微信/QQ窗口拖入图片
+在同级目录下放`名单_CRLF.txt`（Win）`名单_LF.txt`（MacOS、Linux）即可运行，名单使用系统默认`IFS`分隔，运行时从微信/QQ窗口拖入图片，生成文件存放在程序本级target目录
 
 解锁更多姿势请看注释
